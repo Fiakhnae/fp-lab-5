@@ -1,0 +1,6 @@
+DroneID,DroneName,ManufacturerID,MaxFlightTimeMinutes,PriceUSD,Usage
+101,Mavic Air 2,1,34,799,Photography
+102,Anafi,2,25,699,Photography
+103,EVO II,3,40,1495,Surveying
+104,Skydio 2+,4,27,1099,Autonomous Mapping
+105,Phantom 4 Pro,1,30,1499,Photography
